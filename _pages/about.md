@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">say [dot] sayani11 [at] gmail.com</a>.
 
 profile:
   align: right

@@ -6,7 +6,7 @@ title: Sayantoni # the website title (if blank, full name will be used instead)
 first_name: Sayantoni
 middle_name: #
 last_name: Chaudhuri
-email: sayantoni@email.com
+email: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -16,7 +16,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: ture # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -51,8 +51,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
-  Best way to reach me is via email.
+contact_note: 
 
 google_analytics: # UA-XXXXXXXXX # out your google-analytics code
 
