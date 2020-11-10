@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 description: <a href="#">say [dot] sayani11 [at] gmail.com</a>.
+order: 1
 
 profile:
   align: right
